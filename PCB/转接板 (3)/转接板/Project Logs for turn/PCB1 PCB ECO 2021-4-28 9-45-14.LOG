@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BCM4 Pin=SW??-1
+Removed Pin From Net: NetName=BCM17 Pin=SW??-2
+Removed Pin From Net: NetName=BCM22 Pin=SW??-4
+Removed Pin From Net: NetName=BCM10 Pin=SW??-5
+Change Component Designator: OldDesignator= 9     11     5     13     19 NewDesignator=P?
+Added Pin To Net: NetName=BCM10 Pin=SW??-1
+Added Pin To Net: NetName=BCM22 Pin=SW??-2
+Added Pin To Net: NetName=BCM17 Pin=SW??-4
+Added Pin To Net: NetName=BCM4 Pin=SW??-5
+Added Room: Name=Sheet1

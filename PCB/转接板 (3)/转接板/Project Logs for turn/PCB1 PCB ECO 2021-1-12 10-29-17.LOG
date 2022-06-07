@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P8 NewDesignator=BCM18
+Change Component Designator: OldDesignator=P10 NewDesignator=BCM7/8
+Change Component Designator: OldDesignator=P11 NewDesignator=BCM12
+Change Component Designator: OldDesignator=P12 NewDesignator=BCM20/21
+Added Room: Name=Sheet1

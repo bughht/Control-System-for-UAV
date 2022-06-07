@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=iic
+Change Component Designator: OldDesignator=P4 NewDesignator=gpio
+Change Component Designator: OldDesignator=P5 NewDesignator=uart
+Change Component Designator: OldDesignator=P6 NewDesignator=steer
+Change Component Designator: OldDesignator=P7 NewDesignator=gpio2
+Added Room: Name=Sheet1

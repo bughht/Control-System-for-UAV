@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+3V3 Pin=GREEN-1
+Removed Pin From Net: NetName=+3V3 Pin=RED-1
+Added Component: Designator=R5(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(0603P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3V3 Pin=R5-1
+Added Pin To Net: NetName=+3V3 Pin=R6-1
+Added Pin To Net: NetName=NetGREEN_1 Pin=GREEN-1
+Added Pin To Net: NetName=NetGREEN_1 Pin=R6-2
+Added Net: Name=NetGREEN_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=RED-1
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=Sheet1 Member=Component R5 200R
+Added Member To Class: ClassName=Sheet1 Member=Component R6 200R
+Added Room: Name=Sheet1
